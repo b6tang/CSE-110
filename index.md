@@ -4,17 +4,19 @@
 
 ---
 
-** Hello! **
+**Hello!**
 
-** _welcome_ to my page **
+**_welcome_ to my page.**
 
 ## As a programmer
 
-I am a student from UC San Diego
+I am a student from *UC San Diego*.
 
-This page is the lab for my 'CSE 110' class
+This page is the lab for my `CSE 110` class
 
-Using **Markdown** is fun
+Using **Markdown** is fun.
+
+~~mistaken text~~
 
 I can `Quoting code`
 
@@ -43,6 +45,7 @@ I like to drink tea.
 - [ ] week2
 - [ ] week3
 
+
 ### classes I taking this quarter (unordered lists)
 - Cse 130
 - Math 20e
@@ -50,6 +53,7 @@ I like to drink tea.
 - Cse 140L
 - Cse 110 (Waitlisted)
 
+--- 
 
 ## some links
 
