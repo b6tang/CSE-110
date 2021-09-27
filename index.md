@@ -1,21 +1,64 @@
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
 
-# Tang's User Page
+# Tang's User Page 
 
-Hello!
+---
+
+** Hello! 
+
+** _welcome_ to my page 
 
 ## As a programmer
 
-`Quoting code`
+I am a student from UC San Diego
 
+This page is the lab for my 'CSE 110' class
+
+### Labs of CSE110 in this quarter (task lists)
+
+- [x] week1
+- [ ] week2
+- [ ] week3
+
+### classes I taking this quarter (unordered lists)
+- Cse 130
+- Math 20e
+- Math 183
+- Cse 140L
+- Cse 110 (Waitlisted)
+
+Using **Markdown** is fun
+
+I can `Quoting code`
+
+Or
 ```
 Quoting code into block
 ```
 
-## As a person
+Or
+
 >Quoting text sample
 
+## As a person
+
+### <a name = "maketea">Steps of making tea (ordered lists)</a>
+1. boil water
+2. place a tea bag into your cup
+3. fill some hot water and wait a few mintes
+4. enjoy
+
+
+
+
+
+### External Links
 My published GitHub pages site [Tang's page](https://github.com/b6tang/CSE-110).
+
+### Section links
+Go to [Steps of making tea](#maketea)
+
+### Relative links
 
 [Screenshot of command line git transactions](./screenshots/Screenshot of command line git transactions.jpg)
 
@@ -23,21 +66,4 @@ My published GitHub pages site [Tang's page](https://github.com/b6tang/CSE-110).
 
 [Screenshot of command line git transactions](./screenshots/Screenshot of staged commit in VS Code2before commit.jpg)
 
-### classes I taking this quarter
-- Cse 130
-- Math 20e
-- Math 183
-- Cse 140L
-- Cse 110 (Waitlisted)
 
-### Steps of making tea
-1. boil water
-2. place a tea bag into your cup
-3. fill some hot water and wait a few mintes
-4. enjoy
-
-### Labs of this quarter
-
-- [x] week1
-- [ ] week2
-- [ ] week3
