@@ -4,15 +4,38 @@
 
 ---
 
-** Hello! 
+** Hello! **
 
-** _welcome_ to my page 
+** _welcome_ to my page **
 
 ## As a programmer
 
 I am a student from UC San Diego
 
 This page is the lab for my 'CSE 110' class
+
+Using **Markdown** is fun
+
+I can `Quoting code`
+
+Or
+```
+Quoting code into block
+```
+
+Or
+
+>Quoting text 
+
+## As a person
+
+I like to drink tea.
+
+### <a name = "maketea">Steps of making tea (ordered lists)</a>
+1. boil water
+2. place a tea bag into your cup
+3. fill some hot water and wait a few mintes
+4. enjoy
 
 ### Labs of CSE110 in this quarter (task lists)
 
@@ -27,33 +50,11 @@ This page is the lab for my 'CSE 110' class
 - Cse 140L
 - Cse 110 (Waitlisted)
 
-Using **Markdown** is fun
 
-I can `Quoting code`
-
-Or
-```
-Quoting code into block
-```
-
-Or
-
->Quoting text sample
-
-## As a person
-
-### <a name = "maketea">Steps of making tea (ordered lists)</a>
-1. boil water
-2. place a tea bag into your cup
-3. fill some hot water and wait a few mintes
-4. enjoy
-
-
-
-
+## some links
 
 ### External Links
-My published GitHub pages site [Tang's page](https://github.com/b6tang/CSE-110).
+[My GitHub repo](https://github.com/b6tang/CSE-110).
 
 ### Section links
 Go to [Steps of making tea](#maketea)
