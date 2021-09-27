@@ -17,11 +17,11 @@ Quoting code into block
 
 My published GitHub pages site [Tang's page](https://github.com/b6tang/CSE-110).
 
-[Screenshot of command line git transactions](screenshots/Screenshot of command line git transactions.jpg)
+[Screenshot of command line git transactions](./screenshots/Screenshot of command line git transactions.jpg)
 
-[Screenshot of command line git transactions](screenshots/Screenshot of staged commit in VS Code1.jpg)
+[Screenshot of command line git transactions](./screenshots/Screenshot of staged commit in VS Code1.jpg)
 
-[Screenshot of command line git transactions](screenshots/Screenshot of staged commit in VS Code2before commit.jpg)
+[Screenshot of command line git transactions](./screenshots/Screenshot of staged commit in VS Code2before commit.jpg)
 
 ### classes I taking this quarter
 - Cse 130
